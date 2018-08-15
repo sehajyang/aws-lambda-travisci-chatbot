@@ -1,0 +1,9 @@
+{
+  "name": "seha-aws-lambda-travisci",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "dependencies": {}
+}
