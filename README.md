@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
 # 텔레그램 세미나 알림 챗봇 
 
 AWS S3, Rambda, IAM, API Gateway
